@@ -2,13 +2,7 @@
 <h3>Full Stack developer from Oregon, USA</h3>
 
 <p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=dsatpm&label=Profile%20views&color=0e75b6&style=flat" alt="CrisCo116" /> 
-</p>
-
-<p align="left"> 
-  <a href="https://twitter.com/__dsatpm" target="blank">
-    <img src="https://img.shields.io/twitter/follow/__dsatpm?logo=twitter&style=for-the-badge" alt="__dsatpm" />
-  </a> 
+  <img src="[https://komarev.com/ghpvc/?username=dsatpm&label=Profile%20views&color=0e75b6&style=flat](https://github.com/CrisCo116)" alt="CrisCo116" /> 
 </p>
 
 - 🔭 My current project is: [Laughing Crow Salon](https://github.com/dsatpm/lc-salon)
