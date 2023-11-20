@@ -2,7 +2,7 @@
 <h3>Full Stack developer from Oregon, USA</h3>
 
 <p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=dsatpm&label=Profile%20views&color=0e75b6&style=flat" alt="dsatpm" /> 
+  <img src="https://komarev.com/ghpvc/?username=dsatpm&label=Profile%20views&color=0e75b6&style=flat" alt="CrisCo116" /> 
 </p>
 
 <p align="left"> 
